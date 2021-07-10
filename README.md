@@ -6,8 +6,21 @@ The school board notified Maria and her supervisors that Thomas High School nint
 
 - We replaced the data from Thomas High School 9th Graders with NaNs, which affects the data as we are missing the set of data for one of the grades in the schools. 
 
-![THSNaN.PNG](Resources/THSNan.PNG)
+![THSNaN.PNG](Resources/THSNaN.PNG)
 
+- Overall passing score was 64.1% with the 15 schools.
 
+![Overall.png](Resources/Overall.PNG)
+![Overall_Detail.png](Resources/Overall_Detail.PNG)
+![Readingbygrade.png](Resources/Readingbygrade.PNG) ![Mathbygrade.png](Resources/Mathbygrade.PNG)
 
-#There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data (10 pt).
+- Running this analysis does show that Thomas High School would fall within the top 5 high performing school, however this does not account for 9th grade. 
+
+- Based on the school spending the data shows that the less spending range for a student shows a higher average score. 
+![SpendingPerStudent.png](Resources/SpendingPerStudent.PNG)
+
+- Smaller school sizes also help increase the average scores.
+![SchoolSize.png](Resources/SchoolSize.PNG)
+
+District schools show a worst outcome than Charter schools, overall passing percent has a difference of 36%.
+![Schooltype.png](Resources/Schooltype.PNG)
