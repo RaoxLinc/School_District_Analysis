@@ -22,5 +22,5 @@ The school board notified Maria and her supervisors that Thomas High School nint
 - Smaller school sizes also help increase the average scores.
 ![SchoolSize.png](Resources/SchoolSize.PNG)
 
-District schools show a worst outcome than Charter schools, overall passing percent has a difference of 36%.
+- District schools show a worst outcome than Charter schools, overall passing percent has a difference of 36%.
 ![Schooltype.png](Resources/Schooltype.PNG)
